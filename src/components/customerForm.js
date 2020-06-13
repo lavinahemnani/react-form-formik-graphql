@@ -115,15 +115,6 @@ export function CustomersForm() {
               variant="outlined"
               fullWidth
             />
-			<Field
-              label="Address"
-              name="Address"
-              type="text"
-              component={TextField}
-              margin="normal"
-              variant="outlined"
-              fullWidth
-            />
 			<Button type="submit" variant="outlined" color="primary">
               Register
             </Button>{" "}
